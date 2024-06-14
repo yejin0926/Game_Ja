@@ -12,6 +12,10 @@
 				"Mac",
 				"Linux"
 			]
+		},
+		{
+			"Name": "VRM4U",
+			"Enabled": true
 		}
 	]
 }
